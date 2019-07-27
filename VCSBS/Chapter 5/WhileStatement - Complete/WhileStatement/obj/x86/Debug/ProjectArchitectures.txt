@@ -1,0 +1,1 @@
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 5\WhileStatement - Complete\WhileStatement\WhileStatement.csproj;x86

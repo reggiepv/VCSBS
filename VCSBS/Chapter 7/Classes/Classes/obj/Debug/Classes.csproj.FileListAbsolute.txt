@@ -1,0 +1,6 @@
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.pdb
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache

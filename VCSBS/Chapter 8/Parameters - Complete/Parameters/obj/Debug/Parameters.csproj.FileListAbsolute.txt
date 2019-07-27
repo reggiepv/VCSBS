@@ -1,0 +1,6 @@
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\bin\Debug\Parameters.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\bin\Debug\Parameters.pdb
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\obj\Debug\Parameters.csprojResolveAssemblyReference.cache
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\obj\Debug\Parameters.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 8\Parameters - Complete\Parameters\obj\Debug\Parameters.pdb

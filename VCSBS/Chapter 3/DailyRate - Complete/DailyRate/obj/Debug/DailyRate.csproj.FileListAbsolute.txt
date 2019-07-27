@@ -1,0 +1,6 @@
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.csprojResolveAssemblyReference.cache
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\reggi\Documents\Microsoft Press\VCSBS\Chapter 3\DailyRate - Complete\DailyRate\obj\Debug\DailyRate.pdb
